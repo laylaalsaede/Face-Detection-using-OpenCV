@@ -9,6 +9,17 @@ OpenCV is a huge open-source library for computer vision, machine learning, and 
 Start using this command:
 
     pip3 install opencv-python
+Runing the code:
+
+    python facedetection_vedio.py
+    python facedetection_image.py
+
+    
+After running the code, it will detect faces as shown below:
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/63214056/128563678-ff9835a4-8c7d-41c3-9fef-6e44f4a27630.png">
+
+
     
 ## Sources:
 
