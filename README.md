@@ -23,12 +23,12 @@ After running the code, it will detect faces as shown below:
     
 ## Sources:
 
-1- https://youtu.be/7IFhsbfby9s
+- https://youtu.be/7IFhsbfby9s
 
-2- https://github.com/adarsh1021/facedetection
+- https://github.com/adarsh1021/facedetection
 
 ## The image was downloaded from an open source website
 
-3- https://unsplash.com/
+- https://unsplash.com/
     
 
